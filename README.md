@@ -1,4 +1,4 @@
-Olá!!! sou o Bruno Ramos
+|Bruno Ramos| Programador Iniciante|
    <img align="right" alt="Bruno-pic" height="150" style="border-radius:50px;" src="">
 ##
    <div style="display: inline_block"><br>
