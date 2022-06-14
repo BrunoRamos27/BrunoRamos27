@@ -1,4 +1,4 @@
-|Bruno Ramos| Programador Iniciante|
+Olá!!! sou o Bruno, faço programação por Hobby 😜
    <img align="right" alt="Bruno-pic" height="150" style="border-radius:50px;" src="">
 ##
    <div style="display: inline_block"><br>
