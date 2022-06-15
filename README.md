@@ -1,4 +1,4 @@
-<b> <h1 style="color: red;"> Just trying to learn programming😜 </h1></b> 
+<b> <h1 style="color: red;"> Just trying learn how to program 😜 </h1></b> 
    <img align="right" alt="Bruno-pic" height="150" style="border-radius:50px;" src="">
    
 <div>
